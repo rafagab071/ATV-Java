@@ -3,7 +3,7 @@ Atividades de Lógica de Programação realizadas na linguagem Java
 
 Os arquivos em java estão com os nomes das classes, referentes as respectivas atividades:
 
-<h3>Atividade 01 - Triângulos<\h3>
+<h3>Atividade 01 - Triângulos</h3>
 Atividade 04 - Triângulo
 Atividade 05 - Conta bancária
 Atividade 06 - Caixa
