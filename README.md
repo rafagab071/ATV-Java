@@ -1,14 +1,11 @@
 # ATV-Java
 Atividades de Lógica de Programação realizadas na linguagem Java
 
-Os arquivos em java estão com os nomes das classes, referentes as respectivas atividades:
+As atividades estaram separadas em suas respectivas pastas.
+Atividades que não tenham pasta são de exercícios teóricos e/ou introdutórios ao curso(irrelevantes para este repositório).
 
-<h3>Atividade 01 - Temperaturas (Temperatura.java)</h3>
-<h3>Atividade 04 - Triângulo (Triangulos.java)</h3>
-<h3>Atividade 05 - Conta bancária (Conta.java)</h3>
-<h3>Atividade 06 - Caixa (Caixa.Java)</h3>
-<h3>Atividade 07 - Classe Círculo (Circulo.java)</h3>
-<h3>Atividade 08 - Classe conta corrente (ContaCorrente.java)</h3>
-<h3>Atividade 09 - Classe Data com ano bissexto (Data.java)</h3>
-<h3>Atividade 10 - Conta Corrente com Limite de Cheque Especial (ContaCorrente.java)</h3>
-<h3>Atividade 11 - Média da Turma (NotasTurma.java)</h3>
+<h2>Para testar os programas, recomendo utilizar um software dedicado.
+  <br><br>
+  <p>Softwares utilizados nas atividades:</p></h2>
+<h3><img src="https://i0.wp.com/www.filehippofile.com/wp-content/uploads/2019/01/jGRASP.jpg?fit=928%2C279&ssl=1" alt="JGrasp" width="60" height="20"> JGrasp</h3>
+<h3><img src="https://w7.pngwing.com/pngs/512/824/png-transparent-visual-studio-code-hd-logo-thumbnail.png" alt="VS Code" width= "30" height="30"> Visual Studio Code</h3>
