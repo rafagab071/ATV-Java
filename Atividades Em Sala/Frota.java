@@ -46,7 +46,7 @@ public class Frota
             capacidade = nInput.nextDouble();
             System.out.println("Num de Eixos: ");
             numEixos = nInput.nextInt();
-            frota[i] = new Caminhao(modelo, placa, anoFabr, capacidade, numEixos, valor);
+            frota[i] = new Caminhao(modelo, placa, anoFabr, (int)capacidade, numEixos, (int)valor);
          }
          else
          {
